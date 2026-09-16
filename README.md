@@ -1,4 +1,4 @@
-# Fikir Defteri
+# Idea
 
 Kişisel, simbiyotik fikir defteri. PWA — Android telefonda yakalama, Windows'ta genel bakış ve düzenleme. Tam kapsam için [idea_app_implementation_plan.md](./idea_app_implementation_plan.md) dosyasına bakın.
 

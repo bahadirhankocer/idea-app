@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'Fikir Defteri',
-        short_name: 'Fikir Defteri',
+        name: 'Idea',
+        short_name: 'Idea',
         description: 'Kişisel, simbiyotik fikir defteri',
         lang: 'tr',
         start_url: '.',
